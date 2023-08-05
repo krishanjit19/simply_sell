@@ -25,9 +25,7 @@ Welcome to the Refurbished Goods Marketplace App! This is a full-stack web appli
 
 - User authentication and registration
 - Product listings with details and images
-- Shopping cart functionality
 - User profiles and seller stores
-- Secure payment gateway integration
 - Search and filtering options
 - Real-time notifications
 - Admin panel for managing products and users
