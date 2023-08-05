@@ -1,7 +1,8 @@
 #Simply-Sell : Refurbished Goods Marketplace App - MERN Stack
 
+
 Interface -
-![Screenshot 2023-08-05 at 12 42 14 PM](https://github.com/krishanjit19/simply_sell/assets/84830284/9df50050-0136-4b45-ba0f-aaedb73018ac)
+![Screenshot 2023-08-05 at 12 42 14 PM](https://github.com/krishanjit19/simply_sell/assets/84830284/d5ca59bc-be61-49bf-8691-202be4e1ad9c)
 
 User Registation in the Backend
 ![Screenshot 2023-08-05 at 12 42 57 PM](https://github.com/krishanjit19/simply_sell/assets/84830284/55b39147-90ae-4e96-8d8e-7c263430e4e6)
